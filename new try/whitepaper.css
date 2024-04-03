@@ -1,0 +1,190 @@
+.hero {
+    padding-top: 34%;
+    /* margin-top: 50px; */
+    /* padding-bottom: 100%; */
+    /* margin-top: 24em; */
+    background-image: url('https://www.parallelwireless.com/wp-content/uploads/blog-hero.jpg');
+    background-size: cover;
+    background-position: center top 100px;
+    /* background-attachment: fixed; */
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    z-index: 0;
+    /* Fixed background */
+}
+
+.solution-content {
+    background-color: #f0f0f0;
+    opacity: 0.6;
+}
+
+.hero-nav {
+    background-color: #EFEFEF;
+}
+
+.active-hero {
+    background-color: orangered !important;
+    color: white !important;
+}
+
+.resource-content a {
+    text-decoration: none;
+    font: bold;
+    color: orangered;
+    transition: all ease-in 0.3s;
+}
+
+.resource-content a:hover {
+    text-decoration: underline;
+}
+/*
+.cta-flip-box .container .row .col-lg-3 .box {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .cta-flip-box .container .row .col-lg-3 .box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 102, 0, 0.8);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .cta-flip-box .container .row .col-lg-3 .box:hover::before {
+    opacity: 1;
+  }
+  
+  .cta-flip-box .container .row .col-lg-3 .box .box-inn {
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .cta-flip-box .container .row .col-lg-3 .box:hover .box-inn {
+    transform: translateY(-10px);
+  }7
+ 
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .col-md-3 {
+    width: 25%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    position: relative;
+  }
+  
+  .box {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .box h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .box p {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .box.orange {
+    background-color: #ff6600;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .col-md-3:hover .box.orange {
+    opacity: 1;
+  }
+  */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .col-md-3 {
+    width: 25%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .box {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  .box h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .box p {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .orange-end {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 30px;
+    height: 30px;
+    background-color: #ff6600;
+    border-radius: 0 0 5px 0;
+  }
+  
+  .box:hover .orange-end {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: rgba(255, 102, 0, 0.8);
+  }
+  
+  .box:hover .orange-end::before {
+    content: "Download";
+  }

@@ -1,0 +1,73 @@
+div class="cta-flip-box">
+<div class="container">
+        <div class="row row-eq-height">
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/5g-functional-splits/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>5G NR Logical Architecture and its Functional Splits</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/5g-densification/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>Tackling Network Densification Challenges for 5G</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/open-ran-integration-run-with-it/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>Open RAN Integration: Run With It</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/parallel-wireless-creates-openran-all-g-radio-access-network-architecture/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>Parallel Wireless Creates OpenRAN "ALL G" Radio Access Network Architecture</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/cloud-native-applications-101/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>Cloud Native Applications 101</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+        		        <div class="col-lg-3 col-md-6">
+            <a  target="_blank"  href="/white-papers/5g-functional-splits-2/" class="box">
+                <div class="box-inn">
+                <aside>
+                <h5>5G Functional Splits</h5>
+                <p>PDF</p>
+                <div class="read-more"><span>Download</span></div>
+                </aside>
+                </div>
+             </a>
+        </div>
+            </div>
+        
+</div>
+</div>
